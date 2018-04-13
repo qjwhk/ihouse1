@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <WebView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/webView">
+    </WebView>
+
+   <!-- <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text="更新"
+        android:id="@+id/upt"/>-->
+
+
+    <!--<Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="拍照"
+        android:id="@+id/takeP"/>
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="選擇照片"
+        android:id="@+id/chooseP"/>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/img"/>-->
+
+</LinearLayout>

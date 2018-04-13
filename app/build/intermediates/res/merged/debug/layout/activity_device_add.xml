@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#efeff4">
+    
+  	<com.lierda.kesi.ihouse.constants.CommonTitle
+	   android:id="@id/title"
+	   android:layout_width="match_parent"
+	   android:layout_height="48dp" />
+     
+    <EditText
+        android:background="#ffffff"
+        android:id="@+id/deviceSN"
+        android:paddingLeft="10dp"
+        android:hint="请输入设备序列号"
+        android:textColor="#c3c3c8"
+        android:layout_below="@id/title"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="45dp"
+        android:layout_width="match_parent"/>
+    <TextView
+        android:id="@+id/wifiName"
+        android:layout_below="@id/deviceSN"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_height="20dp"
+        android:layout_width="match_parent"
+        android:text="WIFI网络SSID:"
+        android:textColor="#9f9fa6"
+        />
+   <EditText
+	    android:id="@+id/wifiPasswd"
+	    android:background="#ffffff"
+	    android:layout_below="@id/wifiName"
+	    android:paddingLeft="10dp"
+	    android:hint="请输入wifi密码"
+	    android:textColor="#c3c3c8"
+	    android:layout_marginTop="10dp"
+	    android:layout_marginLeft="15dp"
+	    android:layout_marginRight="15dp"
+	    android:layout_height="45dp"
+	    android:layout_width="match_parent"/>
+        
+    <!-- 缓冲加载提示 -->
+    <com.lierda.kesi.ihouse.constants.ProgressDialog
+       android:id="@+id/query_load"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:layout_centerInParent="true"
+       android:gravity="center"
+       android:textColor="#000000"
+       android:visibility="gone"/>
+    
+    <LinearLayout
+       android:id="@+id/wifiButton"
+       android:layout_below="@id/wifiPasswd"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="125dp">
+       <ImageView
+           android:id="@+id/wirelessAdd"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_weight="1"
+           android:src="@drawable/device_icon_wifiadd"/>
+       <ImageView
+           android:id="@+id/wiredAdd"
+           android:layout_weight="1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:src="@drawable/device_btn_wiredadd"/>"
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_message_underline.xml",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\alarm_message_underline.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_device.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_bg_device.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_btn_pause.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\record_btn_pause.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share_via_barcode.png",
+        "source": "E:\\ihouse\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\share_via_barcode.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\device_icon_wifiadd.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\device_icon_wifiadd.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_fluent.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_fluent.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_icon_offline.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_icon_offline.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_deletedevice.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_deletedevice.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_back.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\title_btn_back.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_video.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_bg_video.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_switch_off.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\common_switch_off.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_pic_talkback.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_pic_talkback.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_record_click.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_record_click.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_search.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\title_btn_search.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_localvideo.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_localvideo.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_talk_click.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_talk_click.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_deviceadd.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\title_btn_deviceadd.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_switch_on.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\common_switch_on.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_sound_on.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_sound_on.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_moveplan_switch.xml",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\btn_moveplan_switch.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\launcher_icon.png",
+        "source": "E:\\ihouse\\zxing\\build\\intermediates\\bundles\\debug\\res\\drawable\\launcher_icon.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_setting.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_setting.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_btn_play.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\record_btn_play.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_ptz_on.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_ptz_on.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_fullscreen.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_fullscreen.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_progress_point.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\record_progress_point.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_norecord.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_bg_norecord.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_bg_nomessage.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_bg_nomessage.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_btn_fullscreen.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\record_btn_fullscreen.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_download.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_download.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_talk_nor.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_talk_nor.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\record_btn_smallscreen.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\record_btn_smallscreen.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_ptz_off.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_ptz_off.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_livevideo.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_livevideo.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_smallscreen.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_smallscreen.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_deletemessage.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_deletemessage.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_message.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_message.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_pic_record.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_pic_record.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_sound_off.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_sound_off.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video_btn_play.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\video_btn_play.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_record_nor.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_record_nor.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_hd.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_hd.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_screenshot_click.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_screenshot_click.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_btn_cloudvideo.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\list_btn_cloudvideo.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\8120fcf75fb68b2bb03ddc6e108c3eba\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\device_btn_wiredadd.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\device_btn_wiredadd.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\6a8b09efde42f84982ba083742b4753d\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_icon_remind.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\common_icon_remind.png"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_btn_screenshot_nor.png",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\drawable\\live_btn_screenshot_nor.png"
+    }
+]

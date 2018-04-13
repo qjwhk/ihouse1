@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "E:\\ihouse\\zxing\\build\\intermediates\\bundles\\debug\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "E:\\ihouse\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    }
+]

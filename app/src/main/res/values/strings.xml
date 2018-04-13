@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name1">智能管家</string>
+
+    <!-- 登陆模块 -->
+    <string name="admin_login_name">管理员模拟登陆</string>
+    <string name="user_login_name">用户模拟登陆</string>
+    <string name="login_error_notice">提示：当前demo中未正确配置appId和appSecret,请登录开放平台门户站点，创建应用（应用创建后会得到App ID 和 App Secret）,并且根据开发中心->开发指南中的提示，在demo的源码中的相应代码中填写appId和appSecret,设置后再次编译此demo,进行真机调试.</string>
+    <string name="common_loading">努力加载中</string>
+    <string name="admin_login_err">该账号不是开发者账号，开发者创建应用后，可在开放平台网站->开发中心->应用详情页中找到管理员账号</string>
+    <string name="admin_login_phone_invalid">请输入11位有效管理员账号</string>
+    <string name="bind_user_notice">验证码短信已发送至手机</string>
+    <string name="bind_user_err">验证码短信发送失败</string>
+    <string name="user_no_input">请输入有效的手机号码</string>
+    <string name="user_bind">用户绑定</string>
+    <string name="user_bind_err">该手机号已绑定此应用,请点击“进入设备列表”进行设备管理</string>
+    <string name="user_nobind_err">当前手机号码未与您的应用绑定，请点击“用户绑定”按钮进行用户绑定操作</string>
+    <!-- 设备列表模块 -->
+    <string name="devices_name">设备列表</string>
+    <string name="devices_operation_name">设备操作</string>
+    <string name="devices_add_name">设备添加</string>
+    <string name="wifi_config_loading">无线配网中</string>
+
+    <!-- 录像列表模块 -->
+    <string name="local_records_name">本地录像</string>
+    <string name="cloud_records_name">云存储录像</string>
+
+    <!-- 报警消息列表 -->
+    <string name="alarm_message_name">报警消息列表</string>
+
+    <!-- 摄像头播放模块 -->
+    <string name="live_play_name">实时预览</string>
+    <string name="record_play_name">录像播放</string>
+    <string name="video_flow_count">流量：</string>
+    <string name="video_flow_speed">码率：</string>
+    <string name="video_flow_unit_M">M</string>
+    <string name="video_flow_unit_K_By_S">K/S</string>
+    <string name="video_default_time">00:00:00</string>
+    <string name="video_monitor_online_fail_restart">网络断开，请检查网络</string>
+    <string name="video_monitor_online_restart"></string>
+    <string name="video_monitor_unsupport_audio_talk">该设备不支持语音对讲功能</string>
+    <string name="video_monitor_media_talk">开始对讲</string>
+    <string name="video_monitor_media_talk_close">对讲关闭</string>
+    <string name="video_monitor_load_talk_sound_error">缓冲或对讲中，无法开启声音</string>
+    <string name="video_monitor_sound_open">声音打开</string>
+    <string name="video_monitor_sound_close">声音关闭</string>
+    <string name="video_monitor_image_capture_success">截图成功</string>
+    <string name="video_monitor_image_capture_failed">截图失败</string>
+    <string name="video_monitor_video_record_success">录制成功</string>
+    <string name="video_monitor_video_record_failed">录制失败</string>
+    <string name="video_monitor_media_record">开始录制</string>
+    <string name="video_monitor_media_talk_ready">对讲已准备好</string>
+    <string name="video_monitor_talk_open_error">对讲打开失败</string>
+    <string name="video_monitor_play_error">画面打开失败,请检查网络或秘钥后重试</string>
+    <string name="video_monitor_seek_error">画面定位失败</string>
+    <string name="video_monitor_data_cache">数据缓冲中</string>
+    <string name="video_monitor_record_play_error">录像播放失败</string>
+    <string name="video_monitor_change_stream_normal">正在切换成"流畅"模式</string>
+    <string name="video_monitor_change_stream_hd">正在切换成"高清"模式</string>
+    <string name="beg_hour_data_remind">开始时间-小时：</string>
+
+
+    <string name="action_search">搜索</string>
+    <string name="action_device_token">设备Token</string>
+    <string name="action_help_center">帮助中心</string>
+    <string name="action_about_us">关于信鸽</string>
+    <string name="device_title">您的设备Token为：</string>
+    <string name="device_hint">已成功上传至网页端测试设备页面</string>
+    <string name="action_clear">清除已收到通知</string>
+    <string name="action_setting">功能设置</string>
+    <string name="action_diagnosis">一键诊断</string>
+    <string name="version">信鸽Demo 2.3.5</string>
+    <string name="register">启动&amp;注册</string>
+    <string name="unregister">反注册</string>
+    <string name="tag">设置标签</string>
+    <string name="registerAccount">启动&amp;注册（绑定账号）</string>
+    <string name="delTag">删除标签</string>
+    <string name="clearCache">清除本地缓存</string>
+    <string name="copyToken">复制Token</string>
+    <string name="device">您的设备Token为：</string>
+    <string name="action_back">返回上级</string>
+</resources>

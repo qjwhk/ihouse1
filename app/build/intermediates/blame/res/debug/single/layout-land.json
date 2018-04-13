@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "E:\\ihouse\\zxing\\build\\intermediates\\bundles\\debug\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "E:\\ihouse\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "E:\\ihouse\\zxing\\build\\intermediates\\bundles\\debug\\res\\layout-land\\encode.xml"
+    }
+]

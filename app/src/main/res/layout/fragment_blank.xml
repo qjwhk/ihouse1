@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:id="@+id/btn_fr_second"
+        android:text="切换到页面1" />
+
+</LinearLayout>
